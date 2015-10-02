@@ -1,32 +1,46 @@
 {
   "files": {
-    "cordova-app-loader-complete": {
-      "version": "726b6e72c37e053b022adda6a7aa273d4ef24f2f",
-      "filename": "cordova-app-loader-complete.js"
-    },
-    "autoupdate": {
-      "version": "5947a1bef97e77dee077d12e627c2468e4188690",
-      "filename": "autoupdate.js"
-    },
-    "index": {
-      "version": "8688100742ab3787c96e847fda707c0ca306d360",
-      "filename": "index.html"
+    "jquery": {
+      "version": "afb90752e0a90c24b7f724faca86c5f3d15d1178",
+      "filename": "lib/jquery.min.js"
     },
     "bootstrap": {
-      "version": "6b23e4e9b8ba7413839a327605c415d768da30b4",
-      "filename": "bootstrap.js"
+      "version": "35e0b4e5ac71901d9919b1a32b5ae69cc660d470",
+      "filename": "lib/bootstrap.min.css"
     },
-    "promiscuous": {
-      "version": "61c67e188850f4824b06b777f69f0e9aadc287bc",
-      "filename": "promiscuous.js"
+    "bluebird": {
+      "version": "f37ff9832449594d1cefe98260cae9fdc13e0749",
+      "filename": "lib/bluebird.js"
+    },
+    "CordovaPromiseFS": {
+      "version": "5c4ecbf5ff4bdf214fbc009e4176a5276a4a14c2",
+      "filename": "lib/CordovaPromiseFS.js"
+    },
+    "CordovaAppLoader": {
+      "version": "093af51a1301276bfc4dde7f53bb5c10dc719052",
+      "filename": "lib/CordovaAppLoader.js"
+    },
+    "template": {
+      "version": "3e70f2873de3d9c91e31271c1a59b32e8002ac23",
+      "filename": "template.html"
+    },
+    "app": {
+      "version": "fc25b1533fa89493fc465122fa87346b4543d949",
+      "filename": "app.js"
+    },
+    "style": {
+      "version": "6e76f36f27bf29402a70c8adfee0f84b8a595973",
+      "filename": "style.css"
     }
   },
   "load": [
-    "cordova-app-loader-complete.js",
-    "autoupdate.js",
-    "index.html",
-    "bootstrap.js",
-    "promiscuous.js"
+    "lib/jquery.min.js",
+    "lib/bootstrap.min.css",
+    "lib/bluebird.js",
+    "lib/CordovaPromiseFS.js",
+    "lib/CordovaAppLoader.js",
+    "app.js",
+    "style.css"
   ],
-  "version": "4746ab6faa0c0e5ad053ce80c565f44ba5d037b3"
+  "version": "90d2e07827a364a4f1b0504fee2176090012b1ac"
 }
