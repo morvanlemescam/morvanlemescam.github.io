@@ -1,0 +1,32 @@
+{
+  "files": {
+    "cordova-app-loader-complete": {
+      "version": "726b6e72c37e053b022adda6a7aa273d4ef24f2f",
+      "filename": "cordova-app-loader-complete.js"
+    },
+    "autoupdate": {
+      "version": "5947a1bef97e77dee077d12e627c2468e4188690",
+      "filename": "autoupdate.js"
+    },
+    "index": {
+      "version": "91ea6f6a1c3088b3f777ed49453f578eb8a0bf99",
+      "filename": "index.html"
+    },
+    "bootstrap": {
+      "version": "6b23e4e9b8ba7413839a327605c415d768da30b4",
+      "filename": "bootstrap.js"
+    },
+    "promiscuous": {
+      "version": "61c67e188850f4824b06b777f69f0e9aadc287bc",
+      "filename": "promiscuous.js"
+    }
+  },
+  "load": [
+    "cordova-app-loader-complete.js",
+    "autoupdate.js",
+    "index.html",
+    "bootstrap.js",
+    "promiscuous.js"
+  ],
+  "version": "794060a497e4dfe7d0fefe8b865b7087b102fff8"
+}
