@@ -9,7 +9,7 @@
       "filename": "autoupdate.js"
     },
     "index": {
-      "version": "229126107b9937a02a79b575d5f2d1bb1a4483dc",
+      "version": "8688100742ab3787c96e847fda707c0ca306d360",
       "filename": "index.html"
     },
     "bootstrap": {
@@ -28,5 +28,5 @@
     "bootstrap.js",
     "promiscuous.js"
   ],
-  "version": "fe88668cb7e245e635de71f556542aa135bf71b2"
+  "version": "4746ab6faa0c0e5ad053ce80c565f44ba5d037b3"
 }
